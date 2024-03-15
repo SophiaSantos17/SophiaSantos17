@@ -30,6 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiasantos17&layout=compact&theme=transparent)
           
 
-![snake gif](https://github.com/SophiaSantos17/SophiaSantos17/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SophiaSantos17/SophiaSantos17/blob/output/github-contribution-grid-snake.svg?theme=green)
 
           
