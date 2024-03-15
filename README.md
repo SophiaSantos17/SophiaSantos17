@@ -6,9 +6,7 @@
 <div style="display: flex; flex-direction: row; width: 350px; justify-content: space-between;">
 
 <a href="https://www.instagram.com/07_sophi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 <a href = "mailto:santosvsophia17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 <a href="https://www.linkedin.com/in/sophia-santos-16a031269/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
