@@ -1,11 +1,10 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div style="position:relative; width:100%; overflow:hidden;">
   <div style="position:absolute; width:100%; bottom:0; background:linear-gradient(to right, #ffffff 0%, #ffffff 50%, #ffffff 51%, #ffffff 100%); height:70px; z-index:1;">
     <div style="position:absolute; width:100%; bottom:-70px; background:linear-gradient(to right, #4CAF50 0%, #4CAF50 50%, #ffffff 51%, #ffffff 100%); height:140px; animation: wave 2s infinite linear;"></div>
   </div>
 </div>
-
-
-<link rel="stylesheet" type="text/css" href="styles.css">
 
 <br/>
 <br/>
