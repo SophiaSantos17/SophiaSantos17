@@ -1,49 +1,42 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
 
-<div style="position:relative; width:100%; overflow:hidden;">
-  <div style="position:absolute; width:100%; bottom:0; background:linear-gradient(to right, #ffffff 0%, #ffffff 50%, #ffffff 51%, #ffffff 100%); height:70px; z-index:1;">
-    <div style="position:absolute; width:100%; bottom:-70px; background:linear-gradient(to right, #4CAF50 0%, #4CAF50 50%, #ffffff 51%, #ffffff 100%); height:140px; animation: wave 2s infinite linear;"></div>
-  </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=35&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sophia+Santos;I'm+18+%F0%9F%98%8A;I'm+passionate+about+technology+%E2%99%A1)](https://git.io/typing-svg)
+
+
+
+<h3>You can find me at:</h3>
+<div style="display: flex; flex-direction: row; width: 350px; justify-content: space-between;">  
+
+  <a href="https://www.instagram.com/07_sophi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:santosvsophia17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/sophia-santos-16a031269/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br/>
-<br/>
-<br/>
-
-
-# 👋 Hello! Welcome to my Github profile.
-## My name is Sophia!!!
-<!-- Atualmente estou cursando ultimo semestre em analise e desenvolvimento de sistemas no Senai Suiço Brasileiro -->
+<h1>My Skills</h1>
 
 <div>
-<a href="https://www.instagram.com/07_sophi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:santosvsophia17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sophia-santos-16a031269/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>    
+  <h3>Languages</h3>
 
-<br/>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,nodejs,php,tailwind)](https://skillicons.dev)
 
-## Minhas Skills
+</div>
 
-### Linguagens 
+<div>
+  <h3>Development Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,mysql,nodejs,php,react,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,figma,notion)](https://skillicons.dev)
+</div>
 
-### Ferramentas de Desenvolvimento
+<div>
+  <h3>I'm Learning</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,notion)](https://skillicons.dev)
-
-### Estou Aprendendo
-
-[![My Skills](https://skillicons.dev/icons?i=angular,sqlite,ts)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
+</div>
 
 ![Sophi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaSantos17&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiasantos17&layout=compact&theme=transparent)
-          
 
-![snake gif](https://github.com/SophiaSantos17/SophiaSantos17/blob/output/github-contribution-grid-snake.svg?bg_color=000000)
-
-
-          
+![snake gif](https://github.com/SophiaSantos17/SophiaSantos17/blob/output/github-contribution-grid-snake.svg?)
