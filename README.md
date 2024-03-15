@@ -11,7 +11,7 @@
 
 </div>
 
-<h3>My Skills</h1>
+<h1>My Skills</h1>
 
 <div>
   <h3>Languages</h3>
