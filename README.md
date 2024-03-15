@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=34&pause=1000&color=8D33FF&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Sophia+Santos+%F0%9F%98%8E;I'm+18+%F0%9F%98%8A;I'm+passionate+about+technology+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
+<div align="center"> 
 <h3>You can find me at:</h3>
 <div style="display: flex; flex-direction: row; width: 350px; justify-content: space-between;">
-
+</div>
 <a href="https://www.instagram.com/07_sophi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:santosvsophia17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sophia-santos-16a031269/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -40,9 +41,16 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SophiaSantos17&show_icons=true&count_private=true&hide_border=true&title_color=8D33FF&icon_color=8D33FF&text_color=8D33FF&bg_color=0d1117" alt="Lucca Hiratsuca github stats" />
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SophiaSantos17}/count.svg" /></p> 
+<br>
+</div>
 
-
+<div align="center">  
+  
 ![snake gif](https://github.com/SophiaSantos17/SophiaSantos17/blob/output/github-contribution-grid-snake.svg?)
+</div>
 
 <br/>
 <br/>
