@@ -1,6 +1,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=8D33FF"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=34&pause=1000&color=8D33FF&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Sophia+Santos+%F0%9F%98%8E;I'm+18+%F0%9F%98%8A;I'm+passionate+about+technology+%F0%9F%A4%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=34&pause=1000&color=8D33FF&vCenter=true&random=false&width=700&lines=Hello%2C+I'm+Sophia+Santos+%F0%9F%98%8E;I'm+19+%F0%9F%98%8A;I'm+passionate+about+technology+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 <div align="center"> 
 <h3>You can find me at:</h3>
